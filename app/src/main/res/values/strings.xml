@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IsleStudio</string>
+    <string name="app_tagline">Dynamic Island &amp; Fluid Activity Engine</string>
+    <string name="tab_live_stage">Live Stage</string>
+    <string name="tab_calibration">X/Y &amp; Physics</string>
+    <string name="tab_plugins">Plugin SDK</string>
+    <string name="tab_vault_sync">Vault &amp; System</string>
+    <string name="overlay_service_label">IsleStudio Dynamic Overlay</string>
+    <string name="notification_listener_label">IsleStudio Live Notification Bridge</string>
+    <string name="overlay_active">System Overlay Active</string>
+    <string name="overlay_standby">In-App Studio Mode</string>
+</resources>

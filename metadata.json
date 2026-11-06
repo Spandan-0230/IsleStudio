@@ -1,0 +1,6 @@
+{
+  "name": "IsleStudio",
+  "description": "Precision Dynamic Island & live activity engine for Android with fluid spring physics, X/Y cutout calibration, encrypted presets, and plugin SDK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
